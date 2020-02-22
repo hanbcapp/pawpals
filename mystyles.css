@@ -1,0 +1,19 @@
+h1 {
+color: cyan; font-size:60px; font-weight: bold; text-transform: uppercase;}
+li {
+color: teal; font-size:12px;}
+body {background-color: coral;}
+h2 {
+color: azure;}
+h3 {
+color: azure;}
+h1 {
+border-bottom: 5px solid white;}
+div {
+border-bottom: 4px dotted white;}
+p {
+margin-top: 100px;
+marrgin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
